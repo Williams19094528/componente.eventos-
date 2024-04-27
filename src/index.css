@@ -1,0 +1,46 @@
+/* index.css */
+.form-container {
+  width: 500px;
+  margin: auto;
+  border-radius: 40px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(16, 14, 14, 0.1);
+  background-color: white;
+  height: 500px;
+}
+h1 {
+  text-align: center;
+  padding: 30px;
+}
+h2 {
+  text-align: center;
+  padding: 2px;
+}
+
+.botom {
+  text-align: center;
+  padding: 40px;
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(183, 228, 139, 1) 0%,
+    rgba(82, 219, 203, 1) 59%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.social-button {
+  width: 40px;
+  border-radius: 50%;
+  background-color: #f0e9e9;
+  border: none;
+  cursor: pointer;
+}
+
+.social-button i {
+  font-size: 24px;
+  color: #000000;
+  line-height: 40px;
+}
