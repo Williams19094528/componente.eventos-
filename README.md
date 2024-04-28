@@ -1,3 +1,7 @@
+<<<<<<<<<<<<<<<<<  el trabajo lo hice sin ningun compañero----------------------------------
+
+
+
 <<<<<<< HEAD
 # React + Vite
 
