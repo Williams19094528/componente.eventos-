@@ -1,5 +1,7 @@
 <<<<<<<<<<<<<<<<<  el trabajo lo hice sin ningun compañero----------------------------------
 
+github-pages : https://williams19094528.github.io/componente.eventos-/
+tambien esta en vercel : https://componente-eventos.vercel.app/
 
 
 <<<<<<< HEAD
